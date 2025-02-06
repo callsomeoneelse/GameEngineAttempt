@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnimationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <animation>
+    <animationList>
+      <Animation>
+        <animationOrder>
+          <int>12</int>
+          <int>13</int>
+          <int>14</int>
+          <int>14</int>
+          <int>13</int>
+          <int>12</int>
+        </animationOrder>
+        <name>WalkLeft</name>
+        <speed>10</speed>
+      </Animation>
+      <Animation>
+        <animationOrder>
+          <int>12</int>
+          <int>13</int>
+          <int>14</int>
+          <int>14</int>
+          <int>13</int>
+          <int>12</int>
+        </animationOrder>
+        <name>WalkRight</name>
+        <speed>10</speed>
+      </Animation>
+      <Animation>
+        <animationOrder>
+          <int>3</int>
+          <int>4</int>
+          <int>5</int>
+          <int>4</int>
+          <int>3</int>
+        </animationOrder>
+        <name>Idle</name>
+        <speed>10</speed>
+      </Animation>
+    </animationList>
+    <width>32</width>
+    <height>32</height>
+    <gridX>12</gridX>
+    <gridY>8</gridY>
+  </animation>
+  <texturePath>Textures\PC Computer - Omori - Mari.png</texturePath>
+</AnimationData>
